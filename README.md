@@ -1,4 +1,4 @@
-# Generic-File-Sharing-System-Java
+# Generic File-Sharing System
 
 A simple multi-threaded, file-sharing system for sharing files on the same network, written in Java.
 
